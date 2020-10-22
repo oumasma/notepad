@@ -9,8 +9,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 const App = () => {
     return <div className="container-fluid">
-                <div><NoteDisplay/></div>
-             </div>;
-  };
+        <div><NoteDisplay /></div>
+    </div>;
+};
 
 ReactDOM.render(<App />, document.querySelector("#root"));
