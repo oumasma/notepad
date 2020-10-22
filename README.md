@@ -1,3 +1,15 @@
+# Notepad App
+
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
+
+Une application bloc note pour THP-Next
+
+## Auteurs
+
+* **Caroline Kinouani** _alias_ [@oumasma](https://github.com/oumasma)
+* **Jean Kinouani** _alias_ [@jrkinouani](https://github.com/jrkinouani)
+* **Stanislas BASQUIN** _alias_ [@StanislasBASQUIN](https://github.com/StanislasBASQUIN)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

@@ -21,11 +21,11 @@ const NoteDisplay = () => {
             <div className="wrapper">
                 <div className="row">
                     <div className="col-md-2">
-                    <button type="button" className="btn btn-danger">Danger</button>
+                    <button type="button" className="btn btn-danger">Ajouter une note</button>
                     </div>
             <div className="col-md-8">
-            <h1 className="title">ici le titre : {titleState}</h1>
-            <div dangerouslySetInnerHTML={showContent} className="title_1" />;
+            <h1 className="title">{titleState}</h1>
+            <div dangerouslySetInnerHTML={showContent} className="content" />;
             <MarkdownInput
             onChangeTitle={value => setTitleState(value)}
             onChangeContent={value => setNoteState(value)}
